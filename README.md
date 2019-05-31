@@ -1,8 +1,8 @@
 ﻿# moving-avg
 
-# Usage
+## Usage
 ```js
-const MovingAvg = require('./index');
+const MovingAvg = require('moving-avg');
 
 const mAvg = new MovingAvg(10, 1);
 
