@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "moving-avg", "moving-avg.njsproj", "{D51F01A2-B9B9-4C12-B0EA-F4123DD7FE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51F01A2-B9B9-4C12-B0EA-F4123DD7FE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F01A2-B9B9-4C12-B0EA-F4123DD7FE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F01A2-B9B9-4C12-B0EA-F4123DD7FE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F01A2-B9B9-4C12-B0EA-F4123DD7FE27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11279F05-CB13-4B0D-A2BE-968FD19DAC46}
+	EndGlobalSection
+EndGlobal

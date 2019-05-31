@@ -1,0 +1,12 @@
+{
+  "name": "moving-avg",
+  "version": "0.0.1",
+  "description": "moving-avg",
+  "main": "index.js",
+  "author": {
+    "name": "Sebastian Speitel"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14"
+  }
+}
